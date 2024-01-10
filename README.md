@@ -1,4 +1,6 @@
-## Bem-vindo(a) ao perfil do David Miguel 😁
+## Bem-vindo(a) ao meu perfil me chamo David Miguel e sou um Dev Junior 😁
+<b/>
+<h3>Espero que se sinta a vontade para analisar meus projetos </h3>
 
  <div>
    <a href="https://github.com/David-Miguel007">
