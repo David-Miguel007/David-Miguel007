@@ -14,8 +14,14 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Para entrar em contato segue o botão abaixo!
  
 <div> 
   <a href = "d.moraes053@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+### Linguagens que tenho experiência no momento;
+
+<div>
+ <img src="https://repository-images.githubusercontent.com/657736250/efe020c3-cfc2-41f9-be41-ad581ffc9969"/>
 </div>
